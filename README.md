@@ -1,10 +1,6 @@
 # Universidad Poilitecnica Salesiana
 
 ## Estructura de datos
-<<<<<<< HEAD
-
-=======
->>>>>>> e4638c3 (Metodo BurbujaAvanzado)
 ## Estudiante : Adrian Plaza
 
 ## Practica 1.1 Metodo Burbuja
