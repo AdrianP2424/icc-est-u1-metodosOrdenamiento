@@ -24,3 +24,7 @@ Cree la claase `MetodoBurbujaAvanzado` que implementó un algoritmo de ordenamie
 
 
 
+## Practica 1.3: Metodo Seleccion 
+### Fecha: 2026-04-22
+### Descripcion:
+Cree la clase `MetodoSeleccion` que implementa el algoritmo de ordenamiento por selección, el cual organiza un arreglo de números enteros en orden ascendente buscando el elemento menor en cada iteración y colocándolo en la posición correspondiente. Además, incluye un método para imprimir los elementos del arreglo una vez ordenados.
